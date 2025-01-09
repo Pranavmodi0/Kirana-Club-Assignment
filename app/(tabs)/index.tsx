@@ -14,7 +14,7 @@ import * as FileSystem from 'expo-file-system';
 import * as MediaLibrary from 'expo-media-library';
 import { GiphyData, GiphyApiResponse } from '../../api/giphy';
 
-const GIPHY_API_KEY = '6uPd0230rOa77K25LjyYywURmAniHpY8';
+const GIPHY_API_KEY = 'Api Key';
 
 const HomeScreen: React.FC<{ isDarkMode: boolean; toggleTheme: () => void }> = ({
   isDarkMode,
