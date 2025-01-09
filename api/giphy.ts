@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = '6uPd0230rOa77K25LjyYywURmAniHpY8';
+const API_KEY = 'Api Key';
 const BASE_URL = 'https://api.giphy.com/v1/gifs';
 
 interface GIF {
