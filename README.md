@@ -1,50 +1,23 @@
-# Welcome to your Expo app 👋
+# Giphy Store App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This project outlines the design and development of a Gif generating application for Android + Cross platform devices. The app prioritizes a user-friendly and efficient experience:
 
-## Get started
+**All Functionalities**
 
-1. Install dependencies
+In this project I used
+- React Native
+- Expo
+- Type Script
+- Giphy Api
 
-   ```bash
-   npm install
-   ```
+[Download App Link](https://drive.google.com/file/d/1sK6FbrIpP3sOp2LzeAqe4TvF2E9qrZyG/view?usp=sharing)
 
-2. Start the app
+### Contact Information 
+contact : +919370325483
+email : pranavmodi64@gmail.com
 
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<a href="https://www.linkedin.com/in/pranav-modi-960b67240" target="blank"><img align="center"
+            src="https://logopng.com.br/logos/linkedin-83.png"
+            width="40" /></a>
+    <a href="https://play.google.com/store/apps/developer?id=OnlyModi"><img align="center"
+            src="https://github.com/user-attachments/assets/0f8756f9-05a3-4ae0-8317-d4a83e515d22" height="40" width="40" /></a>
