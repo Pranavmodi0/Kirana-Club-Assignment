@@ -124,7 +124,7 @@ const HomeScreen: React.FC<{ isDarkMode: boolean; toggleTheme: () => void }> = (
           onSubmitEditing={fetchSearchedGIFs}
       />
 
-      <TouchableOpacity
+{/*       <TouchableOpacity
         onPress={toggleTheme}
         style={[
           styles.toggleButton,
@@ -136,7 +136,7 @@ const HomeScreen: React.FC<{ isDarkMode: boolean; toggleTheme: () => void }> = (
         <Text style={[styles.toggleButtonText, { color: isDarkMode ? '#fff' : '#000' }]}>
           Toggle Theme
         </Text>
-      </TouchableOpacity>
+      </TouchableOpacity> */}
 
       {loading && gifs.length === 0 ? (
         <ActivityIndicator size="large" color="#0000ff" />
